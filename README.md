@@ -1,5 +1,5 @@
 # Dogs vs Cats classifier using convolutional neural nets
-The dogs vs cats dataset is one of the first datasets that showed the advantages of using a convolutional neural network for computer vision tasks. 
+The dogs vs cats dataset is one of the first datasets that showed the advantages of using a convolutional neural network for computer vision tasks. the dataset can be found here on [Kaggle](https://www.kaggle.com/c/dogs-vs-cats)
 
 **Resources Used**
 -Python 2.7
