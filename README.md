@@ -22,7 +22,7 @@ the model was trained with 23998images of dogs and cats fed through an image dat
 *shearing and rotating and zooming augmentation techiques were used to get more variety and more data*
 a validation set of 1002 images where used as a validation set and the trainging and validation accuracy and loss was measured
 
-![alt text](images/Screenshot (87).png)
+![alt text](plot.png)
 
 the model was ony trained for 55 epochs due to computational power limitations but still managed to get an accuracy of 0.8980 on the validation set 
 
